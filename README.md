@@ -1,5 +1,7 @@
 # AWS-Multi-Tier-Architecture
 
+Hello everyone 👋, Welcome to this session on deploying a full-stack application on AWS and the application would mimic something like Netflix.. 
+
 ![image](https://user-images.githubusercontent.com/58365168/168010323-9cd4c79f-2cbd-47b3-80bc-a2dab070cfcb.png)
 
 
